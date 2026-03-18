@@ -1,7 +1,7 @@
 import React from "react";
 import { IoIosArrowForward } from "react-icons/io";
 import { Link } from "react-router-dom";
-import Layout from "../../components/layout/layout";
+import Layout from "../../components/layout/Layout";
 import Personalinfo from "./Personalinfo";
 import Billing from "./Billing";
 import Sidebar from "./Sidebar";

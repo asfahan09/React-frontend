@@ -1,7 +1,7 @@
 import { IoIosArrowForward } from "react-icons/io";
 import React from "react";
 import { Link } from "react-router-dom";
-import Layout from "../components/layout/layout";
+import Layout from "../components/layout/Layout";
 import product1 from "../assets/product1.png";
 
 const Cart = () => {

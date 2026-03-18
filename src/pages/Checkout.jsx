@@ -1,5 +1,5 @@
 import React from "react";
-import Layout from "../components/layout/layout";
+import Layout from "../components/layout/Layout";
 import { Link } from "react-router-dom";
 import { IoIosArrowForward } from "react-icons/io";
 import product1 from "../assets/product1.png";
