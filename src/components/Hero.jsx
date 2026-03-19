@@ -8,7 +8,7 @@ function Hero() {
     <div class="bg-slate-50">
       <div class="flex max-w-360 mx-auto lg:px-8  px-5  items-center  bg-hero md:h-screen overflow-hidden ">
         <div class="flex flex-col  gap-6 md:flex-row items-center max-w-8xl ">
-          <div class="w-full md:w-1/2 lg:pr-32 items-center" >
+          <div class="w-full md:w-1/2 lg:pr-32 items-center lg:mt-0 mt-8" >
             <h2 class="text-2xl lg:text-5xl text-center md:text-left text-gray-700  font-bold items-center">
               Discover Your Style in our Fashion Collection
             </h2>
